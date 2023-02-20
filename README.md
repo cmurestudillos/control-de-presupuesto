@@ -10,3 +10,4 @@ Aplicacion Web que permite gestionar diferentes presupuestos y gastos.
 * Hay que tener instalado [npm](https://www.npmjs.com) y [node](https://nodejs.org/es/)
 * Situarse en el directorio ´server´ y ´client´ del proyecto e instalar las dependencias: `npm install`
 * Ejecutar el siguiente comando para arrancar la aplicación en ´client´: `ng serve -o` y `npm start` en ´server´.
+* Usuario de prueba `test@example.com` y contraseña `123456789`
