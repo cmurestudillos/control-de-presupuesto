@@ -1,0 +1,6 @@
+runtime: nodejs16
+service: controldegastos-service
+network:
+  forwarded_ports:
+  - 65080
+  instance_tag: websocket
